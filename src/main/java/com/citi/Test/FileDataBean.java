@@ -26,7 +26,7 @@ public class FileDataBean {
 	@Override
 	public String toString() {
 		return "FileDataBean [satisfaction=" + satisfaction + ", time=" + time + ", satisfactionPerSec="
-				+ satisfactionPerSec + "]";
+				+ satisfactionPerSec + "]\n";
 	}
 	
 	
